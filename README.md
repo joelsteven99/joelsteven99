@@ -1,3 +1,3 @@
 - 👋 Hello, I'm @Betancourt, Joel 
-- 👀 I am interested in programming, cyber security, engineering learning, military.
+- 👀 I am interested in programming, cyber security, engineering learning.
 - 📫 You can contact me through my social networks.
